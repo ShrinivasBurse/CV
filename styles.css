@@ -1,22 +1,48 @@
-body {
-  background-color:  #EAF6F6;
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #E4F5F9;
+  font-family: Merriweather, serif;
 }
 h1{
-  color: #66BFBF;
+  margin-top: 0;
+  font-family: Sacramento;
 
 }
-h2{
-  color: #66BFBF;
-}
-h3{
-  color: #66BFBF;
-}
-hr{
-  border-style: none;
-  background-color: white;
-  border-top-style: dotted;
-  border-color: #66BFBF;
-  border-width: 5px;
-  width: 5%;
 
+.profile-img{
+  height: 200px;
+  width: 150px;
+  border-radius: 100%;
+}
+
+
+
+.skills-img{
+  height: 200px;
+  width: 150px;
+
+}
+.pro{
+  text-decoration: underline;
+}
+.top-container{
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+
+.bottom-cloud{
+  position: absolute;
+  left: 430px;
+  bottom: 450px;
+}
+.mountain-img{
+  margin-left: 850px;
 }
