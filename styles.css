@@ -54,24 +54,24 @@ h3{
 }
 
 .code-img{
-  width: 25%;
+  width: 35%;
   float:left;
   margin-right: 30px;
   border-radius: 30%;
 }
 .android-img{
-  width: 25%;
+  width: 35%;
   float: right;
   border-radius: 30%;
 }
 .movies-img{
-  width: 25%;
+  width: 35%;
   float: left;
   margin-right: 30px;
   border-radius: 30%;
 }
 .music-img{
-  width: 25%;
+  width: 35%;
   float: right;
   border-radius: 30%;
 }
@@ -79,12 +79,12 @@ h3{
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
-  line-height: 2;
+  line-height: 1.5;
 }
 
 .hobbies-row{
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
-  line-height: 2;
+  line-height: 1.5;
 }
