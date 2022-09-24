@@ -4,11 +4,31 @@ body{
   background-color: #E4F5F9;
   font-family: Merriweather, serif;
 }
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #dce8c9;
+  border-width: 5px;
+  width: 5%;
+}
 h1{
+  font-size: 400%;
   margin-top: 0;
   font-family: Sacramento;
+  color: #66BFBF;
 
 }
+
+h2{
+
+  font-weight: normal;
+  color: #66BFBF;
+}
+h3{
+  color: #11999E;
+  margin-bottom: 0;
+}
+
 
 .profile-img{
   height: 200px;
@@ -17,18 +37,13 @@ h1{
 }
 
 
-
-.skills-img{
-  height: 200px;
-  width: 150px;
-
-}
 .pro{
   text-decoration: underline;
 }
 .top-container{
   position: relative;
   padding-top: 100px;
+
 }
 
 .top-cloud{
@@ -37,9 +52,46 @@ h1{
   top: 50px;
 }
 
-
 .bottom-cloud{
-  position: absolute;
-  left: 430px;
-  bottom: 450px;
+  position: relative;
+  right: 250px;
+
+}
+
+.code-img{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+  border-radius: 30%;
+}
+.android-img{
+  width: 25%;
+  float: right;
+  border-radius: 30%;
+}
+.movies-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 30%;
+}
+.music-img{
+  width: 25%;
+  float: right;
+  border-radius: 30%;
+}
+.skills-row{
+
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.hobbies-row{
+
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
 }
