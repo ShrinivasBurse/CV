@@ -91,6 +91,7 @@ p{
 .android-img{
   width: 25%;
   float: right;
+  margin-left: 30px;
   border-radius: 30%;
 }
 .movies-img{
@@ -105,21 +106,21 @@ p{
   border-radius: 30%;
 }
 .music-para{
-  width: 70%;
+  width: 90%;
 }
 
 .movies-para{
-  width: 70%;
+  width: 90%;
 }
 
 
 .design-para{
-  width: 70%;
+  width: 90%;
 }
 
 
 .android-para{
-  width: 70%;
+  width: 90%;
 }
 .skills-row{
 
