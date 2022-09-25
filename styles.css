@@ -106,21 +106,21 @@ p{
   border-radius: 30%;
 }
 .music-para{
-  width: 90%;
+  text-align: left;
 }
 
 .movies-para{
-  width: 90%;
+  text-align: right;
 }
 
 
 .design-para{
-  width: 90%;
+  text-align: right;
 }
 
 
 .android-para{
-  width: 90%;
+  text-align: left;
 }
 .skills-row{
 
